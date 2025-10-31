@@ -1,1 +1,4 @@
-# practica_pygame
+Reoistorio de ejercicios de pygame 
+la primera sesion1 se utilizo un codigo proporcionado por el maestro al cual se modifico para que el fondo cambiara de color, en el ejercicio 2 se agrego al codigo un apartado paera que la ventana se cierre con la letra scape, en el ejercicio 3 se agrego un contador de frames en el codigo para que los muestre y cuando llegue al frame 300 se detenga, por ultimo se hizo una practica se creo una casa la cual cambia de color presionando una tecla.
+la segunda sesion2, en el ejercicio 1 se hizo un tablero de ajedrez, en la segunda practica mediante codigo se dibujaron 5 circulos centricos con diferentes medidas, en la practica se hizo una casa la caula cambia de color presionando R y B .
+la tercera sesion3, en el ejercicio 1 se hizo un rectangulo que cambia de color al tocar el borde de la ventana, en el ejercicio 2 se hizo que un trianhgulo siguiera su trayectoria en circulo midante funciones trigonometricas, en la practica se creo un cuadrado el cual el usuario puede mover a voluntad y va dejando un rastro de circulos.
